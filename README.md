@@ -9,4 +9,4 @@ An automated data engineering script built in Python designed to ingest unstruct
 
 ## 🛠️ Tech Stack Specs
 * **Language Environment:** Python 3.x
-* **Core Core Subsystems:** PyPDF Document Suite, PyTTSx3 Text-to-Speech Core Engine
+* **Core Subsystems:** PyPDF Document Suite, PyTTSx3 Text-to-Speech Core Engine
